@@ -22,6 +22,7 @@
 
 <style lang="scss" scoped>
   .v-application {
-    background-color: #3b5b80 !important;
+    background: url('D:/учеба/converter/src/assets/Depositphotos_60335027_l-2015-pic905-895x505-34408.jpg') !important;
+    background-size: cover !important;
   }
 </style>
